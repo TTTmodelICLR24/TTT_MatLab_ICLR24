@@ -1,6 +1,6 @@
 function Y = full_ttt(G)
 % Full tensor from Tubal-TT tensor G
-% AnhHuy Phan
+% 
 %
 sz = cellfun(@(x) size(x,2),G,'uni',1);
 sz = sz(:)';

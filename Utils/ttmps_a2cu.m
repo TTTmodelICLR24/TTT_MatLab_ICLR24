@@ -56,8 +56,7 @@ function [Xt,output] = ttmps_a2cu(X,rankX,opts)
 %
 %
 %
-% Phan Anh Huy, 2016
-%
+
 
 
 %% Fill in optional variable

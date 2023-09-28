@@ -1,7 +1,7 @@
 function C = tub_kron(A,B)
 % Kronecker-Conv product 
 % C(i,j,:) = cconv(A(i,j,:),B(i,j,:))
-% Anh-Huy Phan
+
 szA = size(A);
 szB = size(B);
 

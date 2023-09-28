@@ -1,7 +1,7 @@
 function [Xt,output] = tubtt_a2cu(X,rankX,opts)
 % Tubal tensor train 
 % X: order-N
-% AnhHuy Phan 
+
 
 N = ndims(X);
 szX = size(X);
